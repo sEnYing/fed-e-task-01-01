@@ -1,0 +1,33 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add flow-remove-types -D
+
+PATH: 
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;D:\tool\cmder;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Android\Sdk\platform-tools;C:\Users\Administrator\AppData\Local\Android\Sdk\emulator;C:\Users\Administrator\AppData\Local\Android\Sdk\tools;C:\Users\Administrator\AppData\Local\Android\Sdk\tools\bin;C:\Program Files\Java\jdk1.8.0_251\bin;C:\Program Files\Java\jdk1.8.0_251\jre\bin;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\tool\cmder;D:\tool\Microsoft VS Code\bin;C:\Python27;C:\Users\Administrator\.babun;C:\Users\Administrator\AppData\Roaming\npm;D:\tool\IntelliJ IDEA 2020.1.1\bin;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.16.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: EBUSY: resource busy or locked, unlink 'E:\fed-e-task-01-01\node_modules\flow-bin\flow-win64-v0.127.0\flow.exe'
+
+npm manifest: 
+  {
+    "name": "fed-e-task-01-01",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/sEnYing/fed-e-task-01-01.git",
+    "author": "sEnying <821124686@qq.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
